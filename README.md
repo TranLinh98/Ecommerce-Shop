@@ -8,7 +8,8 @@ Feature: - auth with jwt token,
          - comfirm status order
          - search, filter by category and ratings product
          - chart statistics
-         -responsive
+         - responsive,
+         - review and rating product
 
 Technology: 
           Frontend: Reactjs, material ui, html/css
